@@ -11,3 +11,6 @@ Duck Coder is *100%* **FREE** and open source!
 
 **V1.0.0**
 Still in a DEVELOPMENT stage.
+
+## Support
+*N/A*
