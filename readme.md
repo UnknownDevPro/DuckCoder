@@ -1,5 +1,8 @@
 # Duck Coder
 
+> [!WARNING]
+> This project has been Discontinued due to the enormous amount of bugs
+
 ## What is it?
 Duck Coder is an Open Source code editor developed by UnknownDevPro.
 
